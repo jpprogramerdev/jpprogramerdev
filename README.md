@@ -1,5 +1,5 @@
 
-### Opa, salve programador (☞ﾟヮﾟ)☞
+### (☞ﾟヮﾟ)☞ Opa, salve programador ☜(ﾟヮﾟ☜)
 
 
 ### 📱Contatos:<br>
@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprogramerdev&show_icons=true&theme=tokyonight)
 
 
-### Tecnologias usadas: / Technologies used:
+### Tecnologias usadas: / Technologies used (⌐■_■):
 
 <div style="display:  inline_block"><br/>
     <img align=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
