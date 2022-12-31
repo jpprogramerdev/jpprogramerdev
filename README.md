@@ -1,9 +1,11 @@
 
 ### Opa, salve programador (☞ﾟヮﾟ)☞
 
+
+###📱Contatos:
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgerofer/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpgerotto)
-
+[![WathsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511968514732)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprogramerdev&show_icons=true&theme=tokyonight)
 
 
@@ -20,4 +22,4 @@
 
 </div><br>    
 
-Gmail: jpgertto.fernandesz@gmail.com
+Gmail: jpgertto.1204fernandesz@gmail.com
