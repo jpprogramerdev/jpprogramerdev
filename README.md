@@ -6,7 +6,7 @@
 
 <hr>
 
-### 📱Contatos / Contacts<br>
+## 📱Contatos / Contacts<br>
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgerofer/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpgerotto)
 [![WathsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511968514732)<br><br>
@@ -16,7 +16,7 @@
 
 <hr>
 
-# Tecnologias usadas / Technologies used (⌐■_■):
+## Tecnologias usadas / Technologies used (⌐■_■):
 
 <div style="display:  inline_block"><br/>
     <img align=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,7 +32,7 @@
 
 <hr>
 
-# Estatísticas de Linguagens / Languagens Statics
+## Estatísticas de Linguagens / Languagens Statics
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpprogramerdev&layout=compact&langs_count=10&theme=dracula" alt="Estatísticas de Linguagens">
 </div>
