@@ -2,15 +2,17 @@
 # (☞ﾟヮﾟ)☞ Opa, salve programador ☜(ﾟヮﾟ☜)
 ### Bem vindo ao meu perfil!
 ### Welcome to my profile!
-<br><br>
+<br>
 
 <hr>
 
-### 📱Contatos<br>
+### 📱Contatos / Contacts<br>
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgerofer/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpgerotto)
 [![WathsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511968514732)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprogramerdev&show_icons=true&theme=tokyonight)
+
+<br>
 
 <hr>
 
