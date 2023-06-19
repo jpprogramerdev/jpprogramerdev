@@ -7,7 +7,6 @@
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgerofer/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jpgerotto)
 [![WathsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511968514732)<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprogramerdev&show_icons=true&theme=tokyonight)
 
 <br>
 
@@ -28,10 +27,5 @@
 </div><br>
 
 <hr>
-
-### Estatísticas de Linguagens / Languagens Statics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpprogramerdev&layout=compact&langs_count=10&theme=dracula" alt="Estatísticas de Linguagens">
-</div>
 
 Gmail: jpgertto.1204fernandesz@gmail.com
