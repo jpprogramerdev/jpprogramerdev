@@ -1,4 +1,4 @@
-# (☞ﾟヮﾟ)☞ Opa, salve programador ☜(ﾟヮﾟ☜) <br><br> Bem vindo ao meu perfil! / Welcome to my profile!
+Bem vindo ao meu perfil! / Welcome to my profile!
 <br><br>
 
 <hr>
